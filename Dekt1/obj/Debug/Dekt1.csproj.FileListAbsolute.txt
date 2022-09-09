@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1_MarkupCompile.cache
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1_MarkupCompile.lref
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\bin\Debug\Dekt1.exe.config
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\bin\Debug\Dekt1.exe
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\bin\Debug\Dekt1.pdb
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1.g.resources
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1.exe
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1.pdb

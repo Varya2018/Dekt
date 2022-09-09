@@ -24,5 +24,10 @@ namespace Dekt1
         {
             InitializeComponent();
         }
+
+        private void Bth_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

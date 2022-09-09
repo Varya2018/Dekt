@@ -13,9 +13,10 @@
         </Grid.ColumnDefinitions>
         <Grid Grid.Column="0" Background="ForestGreen"></Grid>
         <Grid Grid.Column="1" Background="Black" ></Grid>
-        <Image x:Name="IWvARYIf00w_jpg" Grid.Column="0"  Source="IWvARYIf00w.jpg" VerticalAlignment="Center"/>
+        <Image x:Name="IWvARYIf00w_jpg" Grid.Column="0"  Source="IWvARYIf00w.jpg" VerticalAlignment="Center" Height="156" Margin="0,9,0,254" RenderTransformOrigin="0.555,0.897"/>
         <TextBlock> Dekt</TextBlock>
-        <Label Grid.Column="1" Foreground="White"> Dekt </Label>
-        <Label Grid.Column="1" Foreground="White"></Label>
+        <Label Grid.Column="1" Foreground="White">Dekt</Label>
+        <Label Grid.Column="1" Foreground="White" Margin="7,35,33,15">Любой текст</Label>
+        <Button Click="Bth_Click" Height="25" Background="White">Эта кнопка</Button>
     </Grid>
 </Window>
