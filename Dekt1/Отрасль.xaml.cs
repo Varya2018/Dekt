@@ -16,25 +16,13 @@ using System.Windows.Shapes;
 namespace Dekt1
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Отрасль.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Отрасль : Page
     {
-        public MainWindow()
+        public Отрасль()
         {
             InitializeComponent();
-
-        }
-
-        private void Bth_Click(object sender, RoutedEventArgs e)
-        {
-            MainFrame.Navigate(new Отрасль());
-            // Manager.MainFrame = MainFrame;
-        }
-       
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            MainFrame.Navigate(new CIZ());
         }
     }
 }

@@ -9,14 +9,27 @@
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="150"></ColumnDefinition>
-            <ColumnDefinition Width="650"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label FontSize="40" Margin="10" FontWeight="SemiBold" Content="Dekt"></Label>
+            <Grid Background="Green" Height="15" VerticalAlignment="Bottom" Margin="10"></Grid>
+
+            <Frame Grid.Row="1" x:Name="MainFrame"></Frame>
+        </Grid>
+
         <Grid Grid.Column="0" Background="ForestGreen"></Grid>
-        <Grid Grid.Column="1" Background="Black" ></Grid>
-        <Image x:Name="IWvARYIf00w_jpg" Grid.Column="0"  Source="IWvARYIf00w.jpg" VerticalAlignment="Center" Height="156" Margin="0,9,0,254" RenderTransformOrigin="0.555,0.897"/>
+
+        <Image x:Name="IWvARYIf00w_jpg" Grid.Column="0"  Source="IWvARYIf00w.jpg" VerticalAlignment="Center" Height="163" Margin="0,20,0,236" RenderTransformOrigin="0.555,0.897"/>
         <TextBlock> Dekt</TextBlock>
-        <Label Grid.Column="1" Foreground="White">Dekt</Label>
-        <Label Grid.Column="1" Foreground="White" Margin="7,35,33,15">Любой текст</Label>
         <Button Click="Bth_Click" Height="25" Background="White">Эта кнопка</Button>
+
+        <Button Click="Button_Click"  Background="LimeGreen" RenderTransformOrigin="0.493,2.68" Margin="0,264,0,125">СИЗ</Button>
+
     </Grid>
 </Window>

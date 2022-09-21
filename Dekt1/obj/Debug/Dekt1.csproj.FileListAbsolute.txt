@@ -13,3 +13,7 @@ C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1.csp
 C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1.csproj.CoreCompileInputs.cache
 C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1.exe
 C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Dekt1.pdb
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Отрасль.g.cs
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Отрасль.baml
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\CIZ.g.cs
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\CIZ.baml

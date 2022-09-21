@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,25 +17,18 @@ using System.Windows.Shapes;
 namespace Dekt1
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для CIZ.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class CIZ : Page
     {
-        public MainWindow()
+        public CIZ()
         {
             InitializeComponent();
-
         }
 
-        private void Bth_Click(object sender, RoutedEventArgs e)
-        {
-            MainFrame.Navigate(new Отрасль());
-            // Manager.MainFrame = MainFrame;
-        }
-       
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MainFrame.Navigate(new CIZ());
+            Process.Start("https://app.roboflow.com/varya/hard-hat-sample-gchv4/1");
         }
     }
 }
