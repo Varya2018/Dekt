@@ -17,3 +17,7 @@ C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Отра�
 C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Отрасль.baml
 C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\CIZ.g.cs
 C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\CIZ.baml
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Тб.g.cs
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\Тб.baml
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\instryment.g.cs
+C:\Users\Администратор\source\repos\Dekt1\Dekt1\obj\Debug\instryment.baml

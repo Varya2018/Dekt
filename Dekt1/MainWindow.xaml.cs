@@ -36,5 +36,15 @@ namespace Dekt1
         {
             MainFrame.Navigate(new CIZ());
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new Тб());
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new instryment());
+        }
     }
 }

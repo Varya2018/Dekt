@@ -58,10 +58,20 @@
     <Compile Include="CIZ.xaml.cs">
       <DependentUpon>CIZ.xaml</DependentUpon>
     </Compile>
+    <Compile Include="instryment.xaml.cs">
+      <DependentUpon>instryment.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Отрасль.xaml.cs">
       <DependentUpon>Отрасль.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Тб.xaml.cs">
+      <DependentUpon>Тб.xaml</DependentUpon>
+    </Compile>
     <Page Include="CIZ.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="instryment.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -78,6 +88,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Отрасль.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Тб.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

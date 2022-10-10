@@ -10,6 +10,14 @@
 
     <Grid>
 
-        <Button Click="Button_Click"  Background="LimeGreen" Margin="-2,0,535,365" >Ссылка на робофоу</Button>
+        <Button Click="Button_Click"  Background="LimeGreen" Margin="115,104,292,235" RenderTransformOrigin="1.207,1.452" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-2.036"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-3.455"/>
+                </TransformGroup>
+            </Button.RenderTransform> Ссылка на робофоу</Button>
     </Grid>
 </Page>

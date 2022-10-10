@@ -29,7 +29,10 @@
         <TextBlock> Dekt</TextBlock>
         <Button Click="Bth_Click" Height="25" Background="White">Эта кнопка</Button>
 
-        <Button Click="Button_Click"  Background="LimeGreen" RenderTransformOrigin="0.493,2.68" Margin="0,264,0,125">СИЗ</Button>
 
+        <Button Click="Button_Click"  Background="LimeGreen" RenderTransformOrigin="0.493,2.68" Margin="0,356,0,25">СИЗ</Button>
+
+        <Button Click="Button_Click_1" Background="LimeGreen" RenderTransformOrigin="0.499,2.495" Margin="0,253,0,130">Техника безопасности</Button>
+        <Button Click="Button_Click_2"  Background="LimeGreen" Margin="0,302,0,0" Height="36" VerticalAlignment="Top">инструменты</Button>
     </Grid>
 </Window>
